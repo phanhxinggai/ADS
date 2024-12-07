@@ -12,7 +12,6 @@ typedef struct complexNumber{
         printf("%d + %di\n", c.real, c.img);
     }
 
-
 //Addition:
 //a = x1 + y1i
 //b = x2 + y2i
